@@ -41,3 +41,9 @@
 <!-- ===== File I/O & Reporting ===== -->
 [![openpyxl](https://img.shields.io/badge/openpyxl-3.1.5-27ae60?style=flat-square)](https://openpyxl.readthedocs.io/)
 [![XlsxWriter](https://img.shields.io/badge/XlsxWriter-3.2.9-217346?style=flat-square)](https://xlsxwriter.readthedocs.io/)
+
+## ⚠️ Availability Notice
+
+**All parts of this submission — including the full source code, datasets, notebooks, models, and experimental results — will be made publicly available in this repository immediately after the paper is officially published.**
+
+Until publication, this repository serves as a placeholder to reserve the project structure and dependencies. Once the paper is accepted and published, the repository will be updated.
